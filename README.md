@@ -1,4 +1,4 @@
-<h1 align="center">Hola &#128522;, Me llamo Katherine Huamanyauri </h1>
+<h1 align="center">Hola &#128522;, Me llamo Katherine  </h1>
 <h3 align="center">Soy un desarrolladora frontend, dedicada en desarrollar aplicaciones web, me interesa mucho el diseño ya sea en páginas o en imágenes vectoriales, soy una persona creativa y comprometida, a lo cual estoy dispuesta a aprender nuevas tecnologías.</h3>
 
 <h3 align="left">Connect with me:</h3>
